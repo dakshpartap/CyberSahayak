@@ -1,0 +1,346 @@
+CYBERSAHAYAK KNOWLEDGE BASE — Indian Cybercrime Prevention Guide
+================================================================
+
+== SECTION 1: EMERGENCY CONTACTS & REPORTING ==
+
+National Cyber Crime Helpline: 1930
+Cybercrime Portal: https://cybercrime.gov.in
+Available: 24 hours, 7 days a week
+If you are a victim RIGHT NOW, call 1930 immediately. Do not wait.
+
+State-level cyber cells also exist in every major city. Contact your local police station cybercrime cell if 1930 is busy.
+
+To file a complaint online:
+1. Go to https://cybercrime.gov.in
+2. Click "File a Complaint"
+3. Choose category: Financial Fraud, Social Media, Ransomware, etc.
+4. Fill in details, upload evidence (screenshots, call recordings, bank statements)
+5. Get acknowledgment number for follow-up
+
+For banking fraud specifically, also contact your bank within 3 days to freeze the transaction. RBI guidelines require banks to reverse unauthorized transactions reported within 3-7 days.
+
+== SECTION 2: DIGITAL ARREST SCAM ==
+
+What is Digital Arrest?
+Digital arrest is a sophisticated fraud where criminals impersonate government officials (CBI, ED, Narcotics, Police, Customs, TRAI, RBI) and claim you have committed a crime. They order you to stay on a video call (WhatsApp/Skype) and not move — claiming you are "under digital arrest" until you pay a fine.
+
+This is 100% FAKE. There is no such thing as digital arrest in Indian law. No real government agency conducts arrests via video call. No government officer will demand payment to avoid arrest.
+
+How the scam works:
+Step 1: You receive a call from someone claiming to be TRAI officer saying your mobile number will be disconnected for illegal activity.
+Step 2: The call is transferred to a fake police officer or CBI officer on video call.
+Step 3: They show you a fake warrant, fake police ID, fake Supreme Court letter.
+Step 4: They tell you to stay on the call 24/7 under "digital surveillance" (digital arrest).
+Step 5: They demand money to "clear your name" or release funds to "verify your account."
+Step 6: Victims pay lakhs of rupees via UPI/RTGS, often under extreme psychological pressure.
+
+Red Flags:
+- Government officials NEVER contact on WhatsApp or personal video calls
+- No government agency threatens arrest over the phone
+- Real police issue physical warrants, appear in person
+- Pressure to stay on call continuously is a trap
+- Demand for immediate payment to avoid arrest is fraud
+
+What to do:
+1. Immediately disconnect the call
+2. Do NOT share any bank details, OTP, or Aadhaar
+3. Do NOT transfer any money
+4. Call 1930 immediately
+5. Note the phone number and report it to cybercrime.gov.in
+
+Famous digital arrest cases in India 2024:
+- A 77-year-old retired officer was defrauded of Rs 2 crore in Mumbai
+- An IIT professor lost Rs 11.8 lakh in Hyderabad
+- A retired bank officer lost Rs 98 lakh in Delhi NCR
+These are NOT isolated incidents. Thousands of cases are reported monthly.
+
+== SECTION 3: UPI FRAUD ==
+
+Types of UPI Fraud:
+
+1. QR Code Scam:
+Fraudsters send a QR code and say "scan this to RECEIVE money." Scanning and entering PIN causes money to be SENT, not received. Never scan unknown QR codes to receive money.
+
+2. Request Money Fraud:
+Fraudsters send a UPI payment request. When victim approves it thinking they are receiving money, money gets debited from their account. Never approve UPI requests from unknown numbers.
+
+3. Fake Customer Care:
+Victims search for bank/PayTM/PhonePe customer care on Google. Fraudulent numbers appear at top (paid ads). Caller gets UPI PIN/OTP and empties account. Always use official app for customer care, never Google.
+
+4. OTP Sharing via Remote Access:
+Fraudsters claim to be bank official and ask you to install remote access apps like AnyDesk, TeamViewer, QuickSupport. They then read your OTP from your screen. Banks never ask for remote access.
+
+5. Phishing UPI Links:
+Fake links like "upi://pay?pa=fraud@paytm&pn=GOVT_REFUND&am=0" appear to be refund links but redirect to malicious sites collecting credentials.
+
+What to NEVER do with UPI:
+- Never share your UPI PIN to anyone, including bank staff
+- Never approve payment requests from unknown people
+- Never scan QR codes claiming to give you money
+- Never install apps on the request of strangers
+- Never share OTP with anyone, ever
+
+What to do if UPI fraud occurs:
+1. Immediately call your bank to freeze the account
+2. Call 1930 within hours of fraud
+3. File complaint on cybercrime.gov.in
+4. Report to NPCI helpline: 1800-120-1740
+5. File FIR at your local police station
+
+RBI rules: If unauthorized transaction reported within 3 working days, you are entitled to full refund. Between 4-7 days, limited liability. After 7 days, bank policy applies.
+
+== SECTION 4: OTP THEFT AND SIM SWAP FRAUD ==
+
+OTP Theft Methods:
+1. Vishing: Caller pretends to be bank/telecom and asks for OTP "for KYC verification"
+2. Smishing: SMS containing link that installs malware capturing OTPs
+3. SS7 Attack: Rare but technical — intercepts SMS at network level
+4. Fake banking apps: Duplicate banking apps capture login + OTP
+5. Remote access apps: AnyDesk/TeamViewer allows fraudster to see your screen
+
+SIM Swap Fraud:
+Fraudster collects your personal info (name, DOB, Aadhaar last 4 digits) through social engineering. They visit telecom outlet with fake documents and get your SIM replaced. Once SIM is in their control, all OTPs come to them. They drain your bank accounts.
+
+Warning signs of SIM Swap:
+- Your mobile suddenly shows "No Service" or "Emergency Calls Only"
+- You stop receiving calls/SMS unexpectedly
+- You cannot make calls despite network coverage
+
+If you suspect SIM Swap:
+1. Immediately call your telecom operator (Airtel: 121, Jio: 198, BSNL: 1503)
+2. Call your bank to freeze all accounts
+3. Visit nearest telecom outlet with Aadhaar for SIM recovery
+4. File complaint on cybercrime.gov.in
+
+OTP Safety Rules:
+- OTP is like your ATM PIN — NEVER share it with anyone
+- Banks never ask for OTP over phone
+- RBI mandates: No bank employee will ever ask for card details or OTP
+- If someone asks for OTP, it is ALWAYS a fraud, no exceptions
+
+== SECTION 5: PHISHING EMAILS AND FAKE WEBSITES ==
+
+Phishing is when fraudsters create fake emails or websites that look exactly like legitimate ones (SBI, HDFC, PayTM, IRCTC, Income Tax, etc.) to steal your credentials.
+
+Common Phishing in India:
+1. Fake Income Tax Refund: "Your ITR refund of Rs 15,200 is pending. Click here to receive."
+2. Fake KYC Update: "Your account will be blocked. Update KYC by clicking this link."
+3. Fake IRCTC: Fake train ticket booking sites collect payment but no ticket issued.
+4. Fake Job Offers: "You are selected. Pay Rs 500 registration fee."
+5. Fake Bank Websites: Domain like sbi-online.in instead of onlinesbi.sbi
+
+How to identify phishing:
+1. Check the URL: Real SBI = onlinesbi.sbi | Fake = sbi-online.in, sbionline.com
+2. Look for HTTPS with padlock icon
+3. Check for spelling errors in emails and URLs
+4. Real banks never ask for PIN/password via email
+5. Hover over links before clicking to see actual destination
+6. Grammar mistakes and urgency language are red flags
+
+Fake website identification:
+- Newly registered domains (less than 1 year old)
+- Domain contains bank name but with extra words: hdfc-bank-online.com
+- HTTP instead of HTTPS for banking sites
+- No GST registration or company details
+- Payment only via UPI to individual accounts (not company accounts)
+- No physical address or customer care number
+
+What to do if you clicked a phishing link:
+1. Immediately change your banking password
+2. Enable two-factor authentication
+3. Check bank statements for unauthorized transactions
+4. Report the website at https://cybercrime.gov.in/SafeInternet.aspx
+5. Also report to Google Safe Browsing: https://safebrowsing.google.com/safebrowsing/report_phish/
+
+== SECTION 6: WHATSAPP AND SOCIAL MEDIA SCAMS ==
+
+WhatsApp Scams:
+1. Part-Time Job Scam: "Work from home 2 hours and earn Rs 5000/day. Like YouTube videos." Initial small payments are made to build trust, then advance fee is demanded.
+
+2. Fake International Number: Calls from +92 (Pakistan), +1 (USA), +44 (UK) claiming to be relatives in trouble or job offers. These are call center frauds.
+
+3. Fake Lottery/Prize: "You won Rs 25 lakh in WhatsApp lucky draw. Pay GST of Rs 5000 first."
+
+4. Investment Scam: WhatsApp group adds you. Members post fake profit screenshots. They convince you to invest in stocks/crypto. Once you invest heavily, the group disappears.
+
+5. Romance Scam (Honey Trapping): Attractive profile builds relationship over weeks. Eventually asks for money for emergency/visa/medical treatment. Never actually meets.
+
+6. Fake Government Schemes: "Apply now for PM Awas/Ujjwala scheme. Registration fee Rs 500."
+
+Instagram/Facebook Scams:
+1. Fake celebrity giveaways using edited photos
+2. Fake shopping websites promoted through Instagram ads
+3. Brand impersonation (fake Myntra, Amazon, Flipkart accounts)
+4. Crypto investment scams using influencer photos without permission
+
+Safety on Social Media:
+- Verify profile authenticity (blue tick is not foolproof — paid verification exists)
+- Never send money to social media contacts you haven't met in person
+- Be suspicious of anyone who only communicates online and avoids video calls
+- Report fake accounts using platform's report function
+
+== SECTION 7: INVESTMENT AND TRADING SCAMS ==
+
+Stock/Crypto Trading Scams:
+Fraudsters create fake trading platforms or Telegram/WhatsApp groups claiming 30-50% daily returns. They show fake profit screenshots, initial withdrawals are allowed (small amounts). Once large amount is deposited, withdrawal is blocked citing "tax clearance" or "platform error."
+
+Red Flags:
+- Promise of guaranteed returns (illegal in India)
+- Returns of 30%+ monthly (practically impossible)
+- Requirement to download unofficial app (APK file)
+- Pressure to recruit others to earn more
+- No SEBI registration for investment advice
+
+Legitimate investment advice comes only from SEBI-registered advisors. Check SEBI registration at https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes
+
+Multi-Level Marketing (MLM) Scams:
+Companies claiming to sell products but main income is from recruitment. Red flags: high joining fee, income from recruiting not products, pressure to buy products yourself, claims of Rs 1 lakh/month easily.
+
+== SECTION 8: LOAN FRAUD AND BANKING SCAMS ==
+
+Instant Loan App Fraud:
+Illegal loan apps (often Chinese-operated) offer instant loans. They access your contacts, photos, and gallery at registration. When repayment is due (often with 300%+ interest), they threaten to send morphed obscene photos to your contacts if you don't pay.
+
+These apps are illegal. RBI has a list of approved digital lending apps. If harassed:
+1. File complaint at cybercrime.gov.in
+2. Report to RBI Sachet portal: https://sachet.rbi.org.in
+3. File FIR at local police
+4. Do NOT pay further — the harassment is itself criminal
+
+Fake Banking Customer Care:
+Real customer care numbers: SBI: 1800-11-2211, HDFC: 1800-202-6161, ICICI: 1800-1020-123. Always call these official numbers. Never trust numbers found on Google search as they may be fake.
+
+== SECTION 9: CYBER LAWS IN INDIA ==
+
+Information Technology Act 2000 (IT Act):
+
+Section 43: Unauthorized access to computer systems — fine up to Rs 1 crore
+Section 43A: Failure to protect sensitive personal data — compensation to affected parties
+Section 66: Computer-related offences — imprisonment up to 3 years, fine Rs 5 lakh
+Section 66C: Identity theft (using password/digital signature of another) — imprisonment up to 3 years, fine Rs 1 lakh
+Section 66D: Cheating by personation using computer resource — imprisonment up to 3 years, fine Rs 1 lakh
+Section 66E: Violation of privacy (publishing private images) — imprisonment up to 3 years, fine Rs 2 lakh
+Section 66F: Cyber terrorism — life imprisonment
+Section 67: Publishing obscene material online — imprisonment up to 5 years, fine Rs 10 lakh
+Section 67A: Sexually explicit material — imprisonment up to 7 years, fine Rs 10 lakh
+Section 67B: Child pornography — imprisonment up to 7 years, fine Rs 10 lakh
+Section 69: Government power to intercept/decrypt information for national security
+Section 72: Breach of confidentiality by service providers — imprisonment up to 2 years, fine Rs 1 lakh
+Section 75: IT Act applies to offences committed outside India if computer system is in India
+
+Indian Penal Code Sections often applied with IT Act:
+Section 419: Cheating by personation — imprisonment up to 3 years
+Section 420: Cheating — imprisonment up to 7 years
+Section 468: Forgery for fraud — imprisonment up to 7 years
+Section 471: Using forged document — imprisonment up to 2 years
+
+== SECTION 10: PROTECTION AND PREVENTION ==
+
+Password Security:
+- Use minimum 12-character passwords with letters, numbers, symbols
+- Use different passwords for banking and social media
+- Use a password manager (Bitwarden, KeePass — open source and free)
+- Enable two-factor authentication (2FA) on all accounts
+- Change passwords every 3-6 months
+
+Safe Banking:
+- Regularly check bank statements (monthly minimum)
+- Set up SMS/email alerts for all transactions
+- Set low transaction limits on mobile banking
+- Use virtual card numbers for online shopping
+- Never use public WiFi for banking
+
+Aadhaar Safety:
+- Lock your Aadhaar biometrics when not actively using for authentication: https://resident.uidai.gov.in/
+- Use masked Aadhaar (only shows last 4 digits) for document submission
+- Enable Aadhaar Two-Factor Authentication (TOTP) for eKYC
+- Check for unauthorized authentication: https://resident.uidai.gov.in/notification-and-view-history
+
+Device Security:
+- Keep OS and apps updated
+- Install apps only from official Play Store/App Store
+- Do not install APK files from unknown sources
+- Use approved antivirus (Kaspersky, Norton, Bitdefender have Indian presence)
+- Enable remote wipe in case of phone theft (Find My Device)
+
+== SECTION 11: CYBER HYGIENE CHECKLIST ==
+
+Daily:
+- Check bank SMS alerts for unauthorized transactions
+- Do not click links in unknown SMS/email
+- Do not share OTP with anyone
+
+Weekly:
+- Review app permissions on your phone
+- Check login history on email and social media accounts
+- Scan important documents for malware before sharing
+
+Monthly:
+- Check bank statements for unauthorized transactions
+- Review active sessions on WhatsApp (Settings > Linked Devices)
+- Check email forwarding rules for unauthorized rules
+
+Annually:
+- Update passwords
+- Review privacy settings on all social media
+- Check your CIBIL/credit score for unauthorized loans
+
+== SECTION 12: HOW TO FILE A CYBERCRIME COMPLAINT ==
+
+Step 1: Gather Evidence
+- Screenshots of messages, calls, transactions
+- Bank statements showing fraudulent transactions
+- Email headers for phishing emails
+- Phone numbers involved
+- URLs of fake websites visited
+
+Step 2: File Online Complaint at cybercrime.gov.in
+- Category: Financial Fraud → Online Fraud → choose specific type
+- Or: Social Media → Facebook/Instagram/WhatsApp Fraud
+- Fill: Your details, incident details, suspect details, evidence upload
+- Submit and note Complaint ID
+
+Step 3: File FIR at Local Police Station
+- Bring printout of cybercrime.gov.in complaint
+- Bring printed evidence
+- Request FIR under IT Act Section 66/66C/66D and IPC 420
+- If police refuse to file FIR, send complaint by post to SP and DGP
+
+Step 4: Bank Complaint
+- Email your bank within 3 days of fraud
+- Request transaction reversal
+- Ask bank to file SAR (Suspicious Activity Report) with FIU-IND
+
+Step 5: Follow Up
+- Check cybercrime.gov.in with your complaint ID
+- If no action in 15 days, email to statecybercell@nic.in
+- Approach Lok Adalat or Consumer Forum for bank compensation disputes
+
+== SECTION 13: FREQUENTLY ASKED QUESTIONS ==
+
+Q: Can police really arrest me via WhatsApp/Skype video call?
+A: No. Digital arrest does not exist in Indian law. Police arrest requires physical presence, warrant, and proper procedure under CrPC. Any such call is a fraud.
+
+Q: Someone said my Aadhaar is linked to criminal activity and will be cancelled. Is this real?
+A: No. UIDAI does not cancel Aadhaar via phone calls. This is a common digital arrest scam script. Hang up immediately.
+
+Q: I received a call saying my SIM will be disconnected for sending illegal messages. What should I do?
+A: TRAI never calls individuals for SIM disconnection. This is the first step of a digital arrest scam. Disconnect the call.
+
+Q: I lost money to a UPI scam. Can I get it back?
+A: Report immediately to 1930 and your bank. If reported within 3 working days, RBI guidelines provide for refund. After 7 days, chances reduce significantly. Always file FIR regardless.
+
+Q: Is it safe to use public WiFi for UPI transactions?
+A: No. Public WiFi networks can be monitored. Never do banking transactions on public WiFi. Use mobile data for all financial transactions.
+
+Q: Someone offers to double my money in 10 days through an "investment app." Is this real?
+A: No legitimate investment offers doubling in 10 days. This is an advance fee / Ponzi scam. Guaranteed high returns are illegal in India (SEBI regulations). Report to 1930.
+
+Q: I got an email that my Income Tax refund of Rs 45,000 is pending. Should I click the link?
+A: Income Tax refunds come through NSDL/Protean directly to your linked bank account. Income Tax Department never sends refund links via email. This is a phishing email. Do not click. Report to incident@cert-in.org.in
+
+Q: My phone suddenly has no signal. What could be wrong?
+A: This could be SIM swap fraud. Immediately call your telecom operator from another phone to check. Also inform your bank.
+
+Q: I received a WhatsApp message from a foreign number about a job offer. Is it legitimate?
+A: Legitimate employers do not contact via WhatsApp from foreign numbers. These are job scams. Be especially wary if they ask for any registration fee or deposit. Report at cybercrime.gov.in.
